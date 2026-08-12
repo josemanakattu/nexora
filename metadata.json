@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Quality Systems WLL",
+  "description": "Official website for Nexora Quality Systems WLL - ISO Certification & Quality Management Solutions in Manama, Bahrain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
